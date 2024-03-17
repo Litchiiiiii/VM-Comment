@@ -12,7 +12,6 @@ categories: 地图
 copyright_author_href: 'https://vmct-cn.top/'
 toc: true
 toc_number: true
-abbrlink: 19515
 date: 2024-03-17 18:31:53
 ---
 # **安装**
