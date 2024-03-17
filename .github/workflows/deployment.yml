@@ -38,4 +38,4 @@ jobs:
           git remote add origin https://github.com/Litchiiiiii/vmcomment_edit.git
           git add ./source/_posts
           git commit -m "Updated md"
-          git push -u origin master
+          git push -u origin main
