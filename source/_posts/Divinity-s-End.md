@@ -12,6 +12,8 @@ categories: 地图
 copyright_author_href: 'https://vmct-cn.top/'
 toc: true
 toc_number: true
+abbrlink: 19515
+date: 2024-03-17 18:31:53
 ---
 # **安装**
 你必须同时下载地图和汉化补丁，加入汉化资源包的方式完成汉化。地图是原版MC的！无需模组，把地图放进存档（saves）文件夹！
