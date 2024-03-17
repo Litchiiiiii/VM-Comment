@@ -1,0 +1,35 @@
+- class_name: 关于我们
+  class_desc: 想要深入了解VM汉化组吗。
+  link_list:
+    - name: VM汉化组
+      link: https://vmct-cn.top/
+      avatar: https://cdn.modrinth.com/data/IDWIdXwS/1575a2c7f0dcee2dbf3c4f4753f1dec366356e2d.png
+      descr: 我们以专注的翻译态度，倾注无尽的心血，为你带来翻译品质的极致体验。
+    - name: BiliBili
+      link: https://space.bilibili.com/2085089798
+      avatar: https://cdn3.iconfinder.com/data/icons/remixicon-logos/24/bilibili-line-512.png
+      descr: 我们的整合包的介绍和教程都在这里！
+
+- class_name: 赞助
+  class_desc: 
+  link_list:
+    - name: 用爱发电
+      link: https://vmct-cn.top/api/
+      avatar: https://static.afdiancdn.com/static/img/logo/logo.png
+      descr: 我们用爱发电，赞助我们以加速汉化。
+- class_name: 汉化相关
+  class_desc: 
+  link_list:
+    - name: 汉化相关工具API（荔枝）
+      link: https://vm-comment.pp.ua/api/index.html
+      avatar: https://cdn.modrinth.com/data/IDWIdXwS/1575a2c7f0dcee2dbf3c4f4753f1dec366356e2d.png
+      descr: 处理汉化过程需要用到的一些小工具
+    - name: Vault Patcher
+      link: https://www.curseforge.com/minecraft/mc-mods/vault-patcher
+      avatar: https://media.forgecdn.net/avatars/939/117/638418763343369199.png
+      descr: 解决硬编码的专业工具
+    - name: VM Translation Update
+      link: https://www.mcmod.cn/class/11203.html
+      avatar: https://media.forgecdn.net/avatars/934/578/638410942392171439.png
+      descr: VM汉化组汉化更新mod
+    

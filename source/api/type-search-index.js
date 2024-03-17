@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"litchi.util.jsonUtil","l":"CompareKey"},{"p":"litchi.util.jsonUtil","l":"ParatranzAPI"},{"p":"litchi.util.jsonUtil","l":"ParatranzAPI.Strings"},{"p":"litchi.util.traditionTosimpleUtil","l":"TraditionToSimplify"}];updateSearchResults();
