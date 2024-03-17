@@ -236,7 +236,7 @@ aside:
       link: https://space.bilibili.com/2085089798
   card_announcement:
     enable: true
-    content: 下一个汉化发布类型为：地图
+    content: VM汉化组招新啦！！
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
