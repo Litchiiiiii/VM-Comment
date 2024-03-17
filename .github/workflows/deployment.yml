@@ -31,3 +31,11 @@ jobs:
       - name: Deploy hexo
         run: |
           hexo clean && hexo generate && hexo deploy
+      - name: Upload The md
+        run: |
+          git init
+          git remote rm origin
+          git remote add origin https://github.com/Litchiiiiii/vmcomment_edit.git
+          git add ./source/_posts
+          git commit -m "Updated md"
+          git push -u origin master
