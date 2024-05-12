@@ -1,5 +1,5 @@
 ---
-title: 'Medieval MC [FABRIC] - MMC1'
+title: 'Medieval MC [FABRIC] - MMC1 <Badge type = "danger" text = "停止维护" />'
 tags:
   - Fabric
   - 1.19.2
